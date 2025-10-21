@@ -7,7 +7,7 @@ const DefaultLayout = () => {
 			<Header />
 			<Outlet />
 		</>
-	)
-}
+	);
+};
 
 export default DefaultLayout;

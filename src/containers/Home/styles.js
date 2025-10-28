@@ -7,7 +7,7 @@ export const Background = styled.div`
 	background-size: cover;
 	background-attachment: fixed;
 	height: 100vh;
-	width: 100%;
+	width: 100vw;
 	display: flex;
 	align-items: center;
 	justify-content: center;
